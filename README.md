@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="./github_banner_2.svg" alt="Oyin Onafuye" width="100%">
+  <img src="./github_banner.svg" alt="Oyin Onafuye" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Oyin Onafuye</h1>
+<h1 align="center">Oyin Onafuye</h1>
 
-<h2 align="center">Business Analyst | Consumer Insights | Data Storyteller</h2>
+<h2 align="center">Business Analyst | Consumer Insights | Data Storytelling</h2>
 
 <h3 align="center">
-Business Analyst who transforms complex data into strategic business decisions. With experience leading cross-functional operations, I leverage SQL, Python, and Tableau to solve business problems, evaluate performance, and deliver actionable recommendations that drive better decision-making.
+Business Analyst who transforms complex data into strategic business decisions. Combining experience leading cross-functional operations with SQL, Python, and Tableau, I solve business problems, evaluate performance, and deliver actionable recommendations that support better decision-making.
 </h3>
 
 <h4 align="center">
-M.S. Business Analytics, Arizona State University (Expected December 2026) &nbsp;|&nbsp; B.Sc. Mass Communication, Babcock University
+M.S. Business Analytics — Arizona State University (Expected Dec. 2026) &nbsp;|&nbsp; B.Sc. Mass Communication — Babcock University
 </h4>
 
 <p align="center">
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👋+I+am+Oyin+Onafuye;📊+Business+Analyst;🧰+SQL+|+Python+|+Tableau;🎯+Consumer+Insights+|+CPG+|+Retail;💡+Analytical.+Strategic.+Storyteller.;&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=📊+Business+Analyst;🧰+SQL+|+Python+|+Tableau;🎯+Consumer+Insights+|+CPG+|+Retail;💡+Analytical.+Strategic.+Storyteller.;&center=true&width=500&height=50">
 </p>
 
-<h4 align="center">Open to Business Analyst, Consumer Insights, Product Analyst, and Strategy roles</h4>
-<h4 align="center">Available December 2026</h4>
+<h4 align="center">Interested in Business Analyst, Consumer Insights, Product Analyst, and Strategy opportunities</h4>
 
 <br />
 
@@ -40,8 +39,9 @@ M.S. Business Analytics, Arizona State University (Expected December 2026) &nbsp
   <tr>
     <td width="60%">
       <h2>Marketplace Growth Strategy Analysis</h2>
-      <h4>NorthPeak, a global consumer products company, needed to determine whether future marketplace investments should prioritize competitive pricing or customer trust initiatives. As a Business Analyst on the Consumer Insights team, I analyzed 42,675 publicly available Amazon product listings across 15 categories to answer that question.</h4>
-      <h4>The finding: price does not signal quality to consumers. Review volume and purchase engagement do. Budget products average 13,703 reviews compared to 464 for premium products — a 30x gap that represents the real competitive moat on digital marketplaces.</h4>
+      <h4>NorthPeak needed to determine whether future marketplace investments should prioritize competitive pricing or customer trust initiatives. Acting as a Business Analyst on the Consumer Insights team, I analyzed 42,675 publicly available Amazon product listings across 15 categories to identify the strongest drivers of marketplace performance.</h4>
+      <h3>Key Finding</h3>
+      <h4>Price does not signal quality to consumers. Review volume and purchase engagement do. Budget products average 13,703 reviews compared to 464 for premium products — a 30x gap that represents the real competitive moat on digital marketplaces.</h4>
       <br />
       <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,23 +64,23 @@ M.S. Business Analytics, Arizona State University (Expected December 2026) &nbsp
 
 <br />
 
-<h1 align="center">Expertise</h1>
+<h1 align="center">Core Skills</h1>
 
 <table align="center">
   <tr>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100%" alt="SQL" />
       <h3 align="center">SQL</h3>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Python" />
       <h3 align="center">Python</h3>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="100%" alt="Tableau" />
       <h3 align="center">Tableau</h3>
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="100%" alt="Excel" />
       <h3 align="center">Excel</h3>
     </td>
@@ -105,4 +105,4 @@ M.S. Business Analytics, Arizona State University (Expected December 2026) &nbsp
 
 <br />
 
-<p align="center"><i>Available December 2026. Open to Business Analyst, Consumer Insights Analyst, Product Analyst, and Strategy and Operations roles in CPG, retail, beauty, and tech.</i></p>
+<p align="center"><i>Available December 2026. Interested in Business Analyst, Consumer Insights Analyst, Product Analyst, and Strategy and Operations roles in CPG, retail, beauty, and tech.</i></p>
