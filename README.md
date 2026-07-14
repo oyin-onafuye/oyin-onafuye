@@ -4,7 +4,7 @@
 
 <h1 align="center">Oyin Onafuye</h1>
 
-<h2 align="center">Business Analyst | Consumer Insights | Business Strategy</h2>
+<h2 align="center">Business Analyst | Consumer Insights | Data Storytelling</h2>
 
 <h3 align="center">
 Business Analyst who transforms complex data into strategic business decisions. Combining experience leading cross-functional operations with SQL, Python, and Tableau, I solve business problems, evaluate performance, and deliver actionable recommendations that support better decision-making.
@@ -47,3 +47,50 @@ Business Analyst who transforms complex data into strategic business decisions. 
       </a>
     </td>
     <td width="40%" align="center">
+      <a href="https://github.com/oyin-onafuye/amazon-consumer-behavior-analysis">
+        <img width="100%" src="https://public.tableau.com/static/images/Am/AmazonPricingReviewAnalysis/Dashboard1/1.png" alt="Marketplace Growth Strategy Dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h1 align="center">Core Skills</h1>
+
+<table align="center">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100%" alt="SQL" />
+      <h3 align="center">SQL</h3>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100%" alt="Python" />
+      <h3 align="center">Python</h3>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="100%" alt="Tableau" />
+      <h3 align="center">Tableau</h3>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="100%" alt="Excel" />
+      <h3 align="center">Excel</h3>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h1 align="center">Let's Connect</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oyinlayomi-onafuye" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/oyinlayomi.onafuye" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public" />
+  </a>
+  <a href="mailto:onafuyeoyinlayomi12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-8B1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
