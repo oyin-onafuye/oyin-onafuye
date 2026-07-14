@@ -7,8 +7,12 @@
 <h2 align="center">Business Analyst | Consumer Insights | Data Storyteller</h2>
 
 <h3 align="center">
-I combine operational experience managing complex, cross-functional workflows with analytical skills in SQL, Python, and Tableau to help teams understand what drives their customers and where to invest next. Currently completing my Master of Science in Business Analytics at W. P. Carey School of Business, Arizona State University.
+Business Analyst who transforms complex data into strategic business decisions. With experience leading cross-functional operations, I leverage SQL, Python, and Tableau to solve business problems, evaluate performance, and deliver actionable recommendations that drive better decision-making.
 </h3>
+
+<h4 align="center">
+M.S. Business Analytics, Arizona State University (Expected December 2026) &nbsp;|&nbsp; B.Sc. Mass Communication, Babcock University
+</h4>
 
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👋+I+am+Oyin+Onafuye;📊+Business+Analyst;🧰+SQL+|+Python+|+Tableau;🎯+Consumer+Insights+|+CPG+|+Retail;💡+Analytical.+Strategic.+Storyteller.;&center=true&width=500&height=50"></a>
