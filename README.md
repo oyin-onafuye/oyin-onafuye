@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_banner.svg" alt="Oyin Onafuye" width="100%">
+  <img src="./github_banner (1).svg" alt="Oyin Onafuye" width="100%">
 </p>
 
 <h1 align="center">Oyin Onafuye</h1>
