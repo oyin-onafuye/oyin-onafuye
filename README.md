@@ -16,7 +16,7 @@ Business Analyst who transforms complex data into strategic business decisions. 
 
 <br />
 
-<h1 align="center">Companies I Have Worked With</h1>
+<h1 align="center">Organizations and Industry Experience</h1>
 
 <p align="center">
   <img alt="Circle K" src="https://img.shields.io/badge/Circle_K-CC0000?style=for-the-badge&logoColor=white" />
