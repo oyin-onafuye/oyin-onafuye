@@ -83,11 +83,11 @@ NorthPeak needed to determine whether future marketplace investments should prio
     <td width="55%" valign="top">
       <h3>Bjerk Builders Revenue &amp; Pre-Award Process Optimization</h3>
       <p>
-        Bjerk Builders needed earlier visibility into how pre-award decisions shaped cycle time and project margin. The engagement connected process flow, completed-project economics, and operating controls across the journey from lead identification through project start.
-      </p>
-      <p>
-        Analysis of 428 completed projects found that 23.4% finished below the 10% margin target, four stages accounted for approximately 81% of modeled worst-case lead time, and the commitment-to-estimate gap had a -0.67 correlation with realized margin. The resulting operating model introduced a measurable pursuit journey, risk-based margin controls, and a phased implementation roadmap with $940K in projected annual margin recovery under the base case.
-      </p>
+  Bjerk Builders needed earlier visibility into how pre-award decisions affected cycle time and project margin. The engagement connected process flow, completed-project economics, and operating controls from lead identification through project start.
+</p>
+<p>
+  Analysis of 428 completed projects found that 23.4% finished below the margin target, four stages represented approximately 81% of modeled worst-case lead time, and the commitment-to-estimate gap was strongly associated with realized margin. The resulting operating model introduced risk-based controls and a phased roadmap with $940K in projected annual recovery potential.
+</p>
       <p>
         <img src="https://img.shields.io/badge/LEAN%20SIX%20SIGMA-17324D?style=for-the-badge" alt="Lean Six Sigma" />
         <img src="https://img.shields.io/badge/DMAIC-E9A12F?style=for-the-badge" alt="DMAIC" />
