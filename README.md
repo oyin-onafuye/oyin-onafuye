@@ -80,7 +80,7 @@ NorthPeak needed to determine whether future marketplace investments should prio
 <!-- BJERK BUILDERS FEATURED PROJECT -->
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>Bjerk Builders Revenue &amp; Pre-Award Process Optimization</h3>
       <p>
   Bjerk Builders needed earlier visibility into how pre-award decisions affected cycle time and project margin. The engagement connected process flow, completed-project economics, and operating controls from lead identification through project start.
@@ -100,7 +100,7 @@ NorthPeak needed to determine whether future marketplace investments should prio
         </a>
       </p>
     </td>
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="https://github.com/oyin-onafuye/bjerk-builders-process-improvement">
         <img src="https://raw.githubusercontent.com/oyin-onafuye/bjerk-builders-process-improvement/main/bjerk-builders-logo.jpeg" width="85%" alt="Bjerk Builders logo" />
       </a>
