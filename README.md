@@ -43,9 +43,8 @@ Business Analyst who transforms complex data into strategic business decisions. 
 <h3>NorthPeak Marketplace Growth Strategy Analysis</h3>
 
 <h4>
-NorthPeak needed to determine whether future marketplace investments should prioritize competitive pricing or customer engagement initiatives. Acting as a Business Analyst on the Consumer Insights team, I analyzed 42,675 publicly available Amazon product listings across 15 categories to identify the key drivers of marketplace performance and recommend where future investments would deliver the greatest business impact.
+NorthPeak needed to determine whether marketplace investments should prioritize competitive pricing or customer-engagement initiatives. This independent strategy analysis evaluated 42,675 publicly available Amazon product listings across 15 categories to identify the key drivers of marketplace performance and recommend where future investments could deliver the greatest business value.
 </h4>
-
 <br />
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
