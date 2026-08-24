@@ -4,7 +4,7 @@
 
 <h1 align="center">Oyin Onafuye</h1>
 
-<h2 align="center">Business Analyst | Consumer Insights | Data Storytelling</h2>
+<h2 align="center">Business Analyst | Operations Analytics | Data Storytelling</h2>
 
 <h3 align="center">
 Business Analyst who transforms complex data into strategic business decisions. Combining experience leading cross-functional operations with SQL, Python, and Tableau, I solve business problems, evaluate performance, and deliver actionable recommendations that support better decision-making.
