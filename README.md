@@ -77,6 +77,38 @@ NorthPeak needed to determine whether future marketplace investments should prio
 
 <br />
 
+<!-- BJERK BUILDERS FEATURED PROJECT -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>Bjerk Builders Revenue &amp; Pre-Award Process Optimization</h3>
+      <p>
+        Bjerk Builders needed earlier visibility into how pre-award decisions shaped cycle time and project margin. The engagement connected process flow, completed-project economics, and operating controls across the journey from lead identification through project start.
+      </p>
+      <p>
+        Analysis of 428 completed projects found that 23.4% finished below the 10% margin target, four stages accounted for approximately 81% of modeled worst-case lead time, and the commitment-to-estimate gap had a -0.67 correlation with realized margin. The resulting operating model introduced a measurable pursuit journey, risk-based margin controls, and a phased implementation roadmap with $940K in projected annual margin recovery under the base case.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LEAN%20SIX%20SIGMA-17324D?style=for-the-badge" alt="Lean Six Sigma" />
+        <img src="https://img.shields.io/badge/DMAIC-E9A12F?style=for-the-badge" alt="DMAIC" />
+        <img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-2F5A7E?style=for-the-badge" alt="Statistical Analysis" />
+        <img src="https://img.shields.io/badge/PROCESS%20IMPROVEMENT-8F1D3F?style=for-the-badge" alt="Process Improvement" />
+      </p>
+      <p>
+        <a href="https://github.com/oyin-onafuye/bjerk-builders-process-improvement">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-8F1D3F?style=for-the-badge" alt="View Bjerk Builders Project" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/oyin-onafuye/bjerk-builders-process-improvement">
+        <img src="https://raw.githubusercontent.com/oyin-onafuye/bjerk-builders-process-improvement/main/bjerk-builders-logo.jpeg" width="85%" alt="Bjerk Builders logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <h1 align="center">Core Skills</h1>
 
 <table align="center">
