@@ -27,7 +27,7 @@ Business Analyst who transforms complex data into strategic business decisions. 
 
 <br />
 
-<h1 align="center">Featured Project</h1>
+<h1 align="center">Featured Projects</h1>
 
 <table bordercolor="#8B1A1A">
 <tr>
