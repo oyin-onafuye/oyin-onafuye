@@ -111,29 +111,28 @@ NorthPeak needed to determine whether marketplace investments should prioritize 
 <!-- ASU SCM CLASS SCHEDULE BUILDER FEATURED PROJECT -->
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>ASU SCM Class Schedule Builder</h3>
       <p>
-        Faculty-sponsored scheduling application developed for ASU's Department of Supply Chain Management. The product transformed an iterative spreadsheet workflow into a shared system for building, validating, and governing academic schedules. It is now undergoing stakeholder testing in preparation for departmental rollout.
+        Faculty-sponsored product developed for ASU's Department of Supply Chain Management. The application transforms an iterative spreadsheet process into a collaborative system for building, validating, and governing academic schedules.
       </p>
       <p>
-        Served as Product Manager and Business Analyst on a five-person development team, translating stakeholder needs into product requirements, business rules, interface workflows, and test scenarios. Created the interface, contributed to feature development and data preparation, and supported stakeholder testing and documentation.
+        Served as Product Manager and Business Analyst on a five-person development team, translating stakeholder needs into product requirements, business rules, interface workflows, and test scenarios. Created the interface, contributed to product development and data preparation, and supported stakeholder testing ahead of departmental rollout.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PRODUCT%20MANAGEMENT-8C1D40?style=for-the-badge" alt="Product Management" />
         <img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-FFC627?style=for-the-badge" alt="Business Analysis" />
-        <img src="https://img.shields.io/badge/FLASK-2F5A7E?style=for-the-badge" alt="Flask" />
-        <img src="https://img.shields.io/badge/MONGODB-2E7D5A?style=for-the-badge" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/PRODUCT%20DEVELOPMENT-2F5A7E?style=for-the-badge" alt="Product Development" />
       </p>
       <p>
         <a href="https://github.com/oyin-onafuye/asu-scm-class-schedule-builder">
-          <img src="https://img.shields.io/badge/VIEW%20PROJECT-8C1D40?style=for-the-badge" alt="View ASU SCM Scheduler Project" />
+          <img src="https://img.shields.io/badge/VIEW%20PRODUCT-8C1D40?style=for-the-badge" alt="View SCM Class Schedule Builder" />
         </a>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="45%" align="center" valign="middle">
       <a href="https://github.com/oyin-onafuye/asu-scm-class-schedule-builder">
-        <img src="https://raw.githubusercontent.com/oyin-onafuye/asu-scm-class-schedule-builder/main/01-collaborative-schedule.png" width="95%" alt="SCM Class Schedule Builder interface" />
+        <img src="https://raw.githubusercontent.com/oyin-onafuye/asu-scm-class-schedule-builder/main/scm-scheduler-final-product-cover.jpg" width="100%" alt="SCM Class Schedule Builder product preview" />
       </a>
     </td>
   </tr>
