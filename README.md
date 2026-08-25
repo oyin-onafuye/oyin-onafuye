@@ -132,7 +132,7 @@ NorthPeak needed to determine whether marketplace investments should prioritize 
     </td>
     <td width="45%" align="center" valign="middle">
       <a href="https://github.com/oyin-onafuye/asu-scm-class-schedule-builder">
-        <img src="https://raw.githubusercontent.com/oyin-onafuye/asu-scm-class-schedule-builder/main/scm-scheduler-final-product-cover.jpg" width="100%" alt="SCM Class Schedule Builder product preview" />
+       <img src="https://raw.githubusercontent.com/oyin-onafuye/asu-SCM-class-schedule-builder/main/scm-scheduler-product-cover-final.jpg" width="100%" alt="SCM Class Schedule Builder product preview" />
       </a>
     </td>
   </tr>
