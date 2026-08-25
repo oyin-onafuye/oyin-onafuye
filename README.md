@@ -106,6 +106,38 @@ NorthPeak needed to determine whether marketplace investments should prioritize 
     </td>
   </tr>
 </table>
+<br />
+
+<!-- ASU SCM CLASS SCHEDULE BUILDER FEATURED PROJECT -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>ASU SCM Class Schedule Builder</h3>
+      <p>
+        Faculty-sponsored scheduling application developed for ASU's Department of Supply Chain Management. The product transformed an iterative spreadsheet workflow into a shared system for building, validating, and governing academic schedules. It is now undergoing stakeholder testing in preparation for departmental rollout.
+      </p>
+      <p>
+        Served as Product Manager and Business Analyst on a five-person development team, translating stakeholder needs into product requirements, business rules, interface workflows, and test scenarios. Created the interface, contributed to feature development and data preparation, and supported stakeholder testing and documentation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PRODUCT%20MANAGEMENT-8C1D40?style=for-the-badge" alt="Product Management" />
+        <img src="https://img.shields.io/badge/BUSINESS%20ANALYSIS-FFC627?style=for-the-badge" alt="Business Analysis" />
+        <img src="https://img.shields.io/badge/FLASK-2F5A7E?style=for-the-badge" alt="Flask" />
+        <img src="https://img.shields.io/badge/MONGODB-2E7D5A?style=for-the-badge" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://github.com/oyin-onafuye/asu-scm-class-schedule-builder">
+          <img src="https://img.shields.io/badge/VIEW%20PROJECT-8C1D40?style=for-the-badge" alt="View ASU SCM Scheduler Project" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/oyin-onafuye/asu-scm-class-schedule-builder">
+        <img src="https://raw.githubusercontent.com/oyin-onafuye/asu-scm-class-schedule-builder/main/01-collaborative-schedule.png" width="95%" alt="SCM Class Schedule Builder interface" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h1 align="center">Core Skills</h1>
